@@ -1,4 +1,4 @@
-[G4-Logo](!image/Splash.png)
+![G4-Logo](image/Splash.png)
 
 # gondwana
 
