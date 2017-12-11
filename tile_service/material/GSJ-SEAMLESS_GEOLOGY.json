@@ -1,0 +1,7 @@
+{ "name": "GSJ/SEAMLESS_GEOLOGY"
+, "url_pattern": "https://gbank.gsj.jp/seamless/tilemap/detailed/glf/{z}/{y}/{x}.png"
+, "level_of_detail_min": 5
+, "level_of_detail_max": 13
+, "licensing": "GSJ, AIST 20万分の1日本シームレス地質図"
+, "readme_url": "https://gbank.gsj.jp/seamless/"
+}

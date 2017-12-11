@@ -1,0 +1,8 @@
+{ "name": "GSI/SEAMLESSPHOTO"
+, "url_pattern": "http://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg"
+, "level_of_detail_min": 5
+, "level_of_detail_max": 18
+, "licensing": "地理院タイル"
+, "readme_url": "http://maps.gsi.go.jp/development/ichiran.html#seamlessphoto"
+, "default_key": 0
+}

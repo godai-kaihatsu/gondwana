@@ -1,0 +1,7 @@
+{ "name": "GSI/RELIEF"
+, "url_pattern": "http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png"
+, "level_of_detail_min": 2
+, "level_of_detail_max": 18
+, "licensing": "地理院タイル"
+, "readme_url": "http://maps.gsi.go.jp/development/ichiran.html#relief"
+}

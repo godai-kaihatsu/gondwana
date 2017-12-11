@@ -1,0 +1,7 @@
+{ "name": "GSI/STD"
+, "url_pattern": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png"
+, "level_of_detail_min": 0
+, "level_of_detail_max": 18
+, "licensing": "地理院タイル"
+, "readme_url": "http://maps.gsi.go.jp/development/ichiran.html#std"
+}

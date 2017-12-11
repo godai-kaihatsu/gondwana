@@ -1,0 +1,7 @@
+{ "name": "OSM/JA"
+, "url_pattern": "http://tile.openstreetmap.jp/{z}/{x}/{y}.png"
+, "level_of_detail_min": 0
+, "level_of_detail_max": 20
+, "licensing": "© OpenStreetMap contributors"
+, "readme_url": "http://www.openstreetmap.org/copyright"
+}
